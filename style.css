@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+    height:100px;
+}
+header img{
+    margin-top: 20px ;
+    margin-left: 20px;
+}
+main h1{
+    text-align:center;
+    color: black;
+    font-size: 44px;
+}
+main img{
+  padding-left: 25px;  
+  padding-right: 25px;
+}
+ul li{
+    list-style: url(https://learn.algoritmika.org/uploads/2022/03/Frame%201_0_1648536855.png);
+    color: black;
+}
+main h3{
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid black;
+    margin: 25px;
+}
+footer{
+    background-color: blue;
+    height: 100px;
+}
+footer p{
+    color: white;
+    padding: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
